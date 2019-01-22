@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 Image of a car:- 
-![hello](MAC_12.JPG)
+![hello](https://github.com/HafeezMushtaq/github-page-test/blob/master/MAC_12.jpg)
